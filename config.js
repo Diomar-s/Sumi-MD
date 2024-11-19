@@ -41,17 +41,17 @@ global.jadi = 'BrookJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = ` ༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫`
-global.author = `♾━━━━━━━━\n⇝͟͞ ༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫༯`;
-global.wm = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
-global.titulowm = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
-global.titulowm2 = `༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫`
-global.igfg = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.botname = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.dev = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.textbot = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.gt = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
-global.namechannel = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.packname = ` 🍭Sumi-Sakurazawa- Bot-MD🍭`
+global.author = `♾━━━━━━━━\n⇝͟͞  🍭Sumi-Sakurazawa- Bot-MD🍭⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ:  🍭Sumi-Sakurazawa- Bot-MD🍭`;
+global.wm = ' 🍭Sumi-Sakurazawa- Bot-MD🍭';
+global.titulowm = ' 🍭Sumi-Sakurazawa- Bot-MD🍭';
+global.titulowm2 = ` 🍭Sumi-Sakurazawa- Bot-MD🍭`
+global.igfg = ' 🍭Sumi-Sakurazawa- Bot-MD🍭'
+global.botname = ' 🍭Sumi-Sakurazawa- Bot-MD🍭'
+global.dev = ' 🍭Sumi-Sakurazawa- Bot-MD🍭'
+global.textbot = ' 🍭Sumi-Sakurazawa- Bot-MD🍭'
+global.gt = ' 🍭Sumi-Sakurazawa- Bot-MD🍭';
+global.namechannel = ' 🍭Sumi-Sakurazawa- Bot-MD🍭'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -104,20 +104,20 @@ global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'BROOK༆', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
  
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Grupo Oficial De Drako
-global.gp1 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Grupo 
-global.gp2 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'//
-global.comunidad1 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Comunidad Drako
-global.channel = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Canal Oficial
-global.yt = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Canal De Youtube
-global.md = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Github Oficial
-global.correo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.cn ='https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t';
+global.gp4 = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Grupo Oficial De Drako
+global.gp1 = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Grupo 
+global.gp2 = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy'//
+global.comunidad1 = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Comunidad Drako
+global.channel = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Canal Oficial
+global.yt = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Canal De Youtube
+global.md = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Github Oficial
+global.correo = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy'
+global.cn ='https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363307382381547@newsletter", serverMessageId: 100, newsletterName: namechannel, }, }, }
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363324350463849@newsletter", serverMessageId: 100, newsletterName: namechannel, }, }, }
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
 global.locale = 'es';
@@ -127,8 +127,8 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nBrook - Bot`;
-global.nomorown = '584148256527';
+global.wm2 = `${dia} ${fecha}\nSuki - Bot`;
+global.nomorown = '34610246115';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
