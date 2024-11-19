@@ -30,6 +30,7 @@ const defaultMenu = {
 *┃┃  %greeting* 
 *┃┣━━━━━━━━━━━━━━━━╾•* 
 *┃┃ ⋄ *𝗗𝗨𝗘𝗡̃𝗢:* LEONEL
+*┃┃ ⋄ *𝗢𝗪𝗡𝗘𝗥2* DARIELA
 *┃┃ ⋄ׁ *𝙈𝙊𝘿𝙊:* Público
 *┃┃ ⋄ *𝘽𝘼𝙔𝙇𝙀𝙔𝙎:* Multi Device
 *┃┃ ⋄ *𝘼𝘾𝙏𝙄𝙑𝙊:* %muptime
@@ -175,13 +176,13 @@ await conn.sendMessage(
     mentionedJid: [m.sender],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363323286489957@newsletter',
-      newsletterName: 'SUMI-BOT',
+      newsletterJid: '120363324350463849@newsletter',
+      newsletterName: 'SUMI-BOT🍭',
       serverMessageId: -1,
     },
     forwardingScore: 999,
     externalAdReply: {
-      title: 'Kakaroto',
+      title: 'SUMI SAKURASAWA 🍭',
       body: dev,
       thumbnailUrl: fotoperfil,
       sourceUrl: redes,
