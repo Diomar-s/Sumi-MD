@@ -16,10 +16,10 @@ const groupsIn = chats.filter(([id]) => id.endsWith('@g.us'))
 const used = process.memoryUsage()
 let goku = `╭─⬣「 *Estado De SUMI* 」⬣\n`
 goku += `│ 👑 *Creador ∙* LEO\n`
-goku += `│ 📚 *Grupos Unidos ∙* ${groupsIn.length}\n`
-goku += `│ 👤 *Chats Privados ∙* ${chats.length - groupsIn.length}\n`
+goku += `│ ❤️ *Grupos Unidos ∙* ${groupsIn.length}\n`
+goku += `│ 🌷 *Chats Privados ∙* ${chats.length - groupsIn.length}\n`
 goku += `│ 💬 *Total De Chats ∙* ${chats.length}\n`
-goku += `│ 🐉 *Sayayíns Registrados ∙* ${totalreg}\n`
+goku += `│ 🍭 *Usuarios Registrados ∙* ${totalreg}\n`
 goku += `│ ☁️ *Grupos Registrados ∙* ${totalchats}\n`
 goku += `│ 🕜 *Actividad ∙* ${muptime}\n`
 goku += `╰─⬣`
