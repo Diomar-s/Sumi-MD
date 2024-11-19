@@ -31,14 +31,14 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 global.fotoperfil = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/51978660122'
+global.creador = 'Wa.me/34610246115'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/51978660122'
-global.namechannel = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.namechannel2 = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.namegrupo = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.namecomu = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.namecomu2 = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.asistencia = 'Wa.me/34610246115'
+global.namechannel = '🍭Sumi-Sakurazawa- Bot-MD🍭'
+global.namechannel2 = '🍭Sumi-Sakurazawa- Bot-MD🍭'
+global.namegrupo = '🍭Sumi-Sakurazawa- Bot-MD🍭'
+global.namecomu = '🍭Sumi-Sakurazawa- Bot-MD🍭'
+global.namecomu2 = '🍭Sumi-Sakurazawa- Bot-MD🍭'
 global.colab1 = 'Miguelon'
 global.colab2 = 'Steven'
 global.colab3 = 'Dino'
@@ -62,12 +62,12 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
 
 //Enlaces
-var grupo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-var canal = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-var git =  'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-var youtube =  'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-var github = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-let correo =  'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
+var grupo = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
+var canal = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
+var git =  'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
+var youtube =  'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
+var github = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
+let correo =  'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
 
 global.redes = [canal, grupo, git, youtube, github, correo].getRandom()
 
@@ -100,14 +100,14 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://files.catbox.moe/umnkyi.jpg',
-'https://files.catbox.moe/umnkyi.jpg',
-'https://files.catbox.moe/umnkyi.jpg',
-'https://files.catbox.moe/47utty.jpg',
-'https://files.catbox.moe/47utty.jpg',
-'https://files.catbox.moe/47utty.jpg'
+'https://files.catbox.moe/fdeur8.jpg',
+'https://files.catbox.moe/fdeur8.jpg',
+'https://files.catbox.moe/6vebfu.jpg',
+'https://files.catbox.moe/fdeur8.jpg',
+'https://files.catbox.moe/7hvw5m.jpg',
+'https://files.catbox.moe/7hvw5m.jpg'
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363323286489957@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: '🐉 ꜞᵉˡ ᵇᵒᵗ ᵐᵃˢ ᶠᵘᵉʳᵗᵉꜝ', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363324350463849@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: '🍭SUMI SAKURASAWA🍭', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
 export default handler
