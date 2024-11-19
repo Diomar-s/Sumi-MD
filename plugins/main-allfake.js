@@ -56,18 +56,18 @@ global.emoji4 = '🍭'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
-global.waitt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
-global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
-global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
+global.wait = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁a ...*';
+global.waitt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁a ...*';
+global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁a ...*';
+global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁a ...*';
 
 //Enlaces
 var grupo = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
 var canal = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
 var git =  'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
-var youtube =  'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
-var github = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
-let correo =  'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
+var youtube =  'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy'
+var github = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy'
+let correo =  'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy'
 
 global.redes = [canal, grupo, git, youtube, github, correo].getRandom()
 
