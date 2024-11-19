@@ -24,7 +24,7 @@ let tags = {
 
 const defaultMenu = {
   before: ` 
-*╭━━❍𝗕𝗥𝗢𝗢𝗞-☆꧁🍭SUMI-SAKURASAWA🍭꧂☆❍━━╮*
+*╭━━❍🍭SUMI-SAKURASAWA🍭꧂☆❍━━╮*
 *┣━━━▢ 💖𝐇𝐎𝐋𝐀, *%name* 💖*• 
 *┃╭━━━━━━━━━━━━━━━━╾•* 
 *┃┃  %greeting* 
