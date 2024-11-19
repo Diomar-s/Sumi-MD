@@ -105,13 +105,13 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
  
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp4 = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Grupo Oficial De Drako
-global.gp1 = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Grupo 
+global.gp1 = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w' //Grupo 
 global.gp2 = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy'//
 global.comunidad1 = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Comunidad Drako
-global.channel = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Canal Oficial
-global.yt = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Canal De Youtube
+global.channel = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w' //Canal Oficial
+global.yt = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w' //Canal De Youtube
 global.md = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy' //Github Oficial
-global.correo = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy'
+global.correo = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
 global.cn ='https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
