@@ -6,19 +6,19 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
     let search = await yts(text);
     let isVideo = /vid$/.test(command);
     let urls = search.all[0].url;
-    let body = `\`YouTube Play - Sumi-Bot-MD\`
+    let body = `\`YouTube Play - Sumi-Bot-MD💖\`
 
- ➢   *Título:* ${search.all[0].title}
+ 🍭   *Título:* ${search.all[0].title}
      
- ➢   *Vistas:* ${search.all[0].views}
+ 🍭   *Vistas:* ${search.all[0].views}
       
- ➢   *Duración:* ${search.all[0].timestamp}  
+ 🍭   *Duración:* ${search.all[0].timestamp}  
       
- ➢   *Subido:* ${search.all[0].ago} 
+ 🍭   *Subido:* ${search.all[0].ago} 
       
- ➢   *Url:* ${urls}
+ 🍭   *Url:* ${urls}
 
-☠️ *Su ${isVideo ? 'Video' : 'Audio'} se está enviando, espere un momento...*`;
+ 💖 *Su ${isVideo ? 'Video' : 'Audio'} se está enviando, espere un momento...*`;
     
     conn.sendMessage(m.chat, { 
         image: { url: search.all[0].thumbnail }, 
