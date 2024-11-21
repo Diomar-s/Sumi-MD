@@ -65,9 +65,9 @@ global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 var grupo = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
 var canal = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
 var git =  'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
-var youtube =  'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy'
-var github = 'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy'
-let correo =  'https://chat.whatsapp.com/IF8r9p5O5I0Idp2JSHiDRy'
+var youtube =  'https://chat.whatsapp.com/GSZBZ6Ggjp02mZmZNTGQu6'
+var github = 'https://chat.whatsapp.com/GSZBZ6Ggjp02mZmZNTGQu6'
+let correo =  'https://chat.whatsapp.com/GSZBZ6Ggjp02mZmZNTGQu6'
 
 global.redes = [canal, grupo, git, youtube, github, correo].getRandom()
 
